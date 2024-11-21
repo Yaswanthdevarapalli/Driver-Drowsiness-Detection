@@ -1,4 +1,6 @@
-# Driver-Drowsiness-DetectionThis project focuses on the detection of drowsiness in drivers using Python. Drowsiness is a major cause of road accidents, and this project aims to provide a solution to prevent such incidents.
+# Driver-Drowsiness-Detection
+
+This project focuses on the detection of drowsiness in drivers using Python. Drowsiness is a major cause of road accidents, and this project aims to provide a solution to prevent such incidents.
 
 The project involves using computer vision techniques to detect the driver's face and track the eye movements. The eye movements are analyzed to detect signs of drowsiness, such as prolonged eye closure or reduced blink rate.
 
